@@ -2,3 +2,5 @@
 this is my new readme file
 
 new
+
+this is an additional text line
